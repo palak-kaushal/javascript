@@ -64,11 +64,11 @@ let button = document.getElementById("button")
 const btn =document.getElementById("btn")
 const ctn =document.getElementById("ctn")
 
-btn.addEventListener("click",function){
+btn.addEventListener("click",function(event){
     alert("btn is clicked")
 
 })
-ctn.addEventListener("click",function){
+ctn.addEventListener("click",function(event){
     alert("ctn is clicked")
 })
 
