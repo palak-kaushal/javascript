@@ -27,6 +27,10 @@
 //     console.log("a is true") 
 // }
 
+
+//EVENTS
+
+
 let button = document.getElementById("button")
 
 // button.onclick = function() {
