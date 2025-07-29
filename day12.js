@@ -1,3 +1,5 @@
+// clouserfunction
+
 function outerFunction(){
     let counter =0;
     function innerFunction(){
